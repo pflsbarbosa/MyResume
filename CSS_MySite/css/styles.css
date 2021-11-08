@@ -1,4 +1,4 @@
-html, body {  font-family: "Comic Sans MS", cursive, sans-serif !important; height: 100%; }
+html, /* body {  font-family: "Comic Sans MS", cursive, sans-serif !important; height: 100%; } */
 body { background: white; font-size: 15px; color:#2b0057;  line-height: 1.64; margin: 0; padding: 0; height: 100vh;}
 h1 { font-size: 30px;}
 h2{font-size:22px;}
